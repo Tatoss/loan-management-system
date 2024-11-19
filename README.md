@@ -27,6 +27,7 @@ A feature-rich Loan Management System built using **PHP** and **MySQL**. This sy
   - KYC checks
   - Bank verification
   - Affordability assessment
+  - Picture verify
 
 ---
 
