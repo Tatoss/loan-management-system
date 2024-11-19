@@ -1,0 +1,39 @@
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IDVerified in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 147
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$FirstName in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 151
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 151
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$LastName in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 152
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 152
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$Aadhaar in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 153
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 153
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$MobileNumber in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 154
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 154
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$RegDate in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 155
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 155
+[24-Oct-2024 11:10:54 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$ID in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 159
+[24-Oct-2024 11:14:00 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$ID in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[24-Oct-2024 11:14:00 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[24-Oct-2024 11:14:27 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$ID in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[24-Oct-2024 11:14:27 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[25-Oct-2024 12:42:57 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$ID in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[25-Oct-2024 12:42:57 Africa/Johannesburg] PHP Deprecated:  htmlentities(): Passing null to parameter #1 ($string) of type string is deprecated in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/user-checks.php on line 164
+[25-Oct-2024 13:14:24 Africa/Johannesburg] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'MonthlyIncome' in 'field list' in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/reg-users.php:62
+Stack trace:
+#0 /home/texcorpc/public_html/tests/enterwise/enterwise/admin/reg-users.php(62): PDOStatement->execute()
+#1 {main}
+  thrown in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/reg-users.php on line 62
+[25-Oct-2024 14:39:59 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IdentityNumber in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 35
+[25-Oct-2024 14:39:59 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$Deceased in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 38
+[25-Oct-2024 14:39:59 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IDNBlocked in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 39
+[25-Oct-2024 14:39:59 Africa/Johannesburg] PHP Warning:  Undefined array key "id" in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 44
+[25-Oct-2024 14:55:44 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IdentityNumber in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 35
+[25-Oct-2024 14:55:44 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$Deceased in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 38
+[25-Oct-2024 14:55:44 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IDNBlocked in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 39
+[25-Oct-2024 14:55:44 Africa/Johannesburg] PHP Warning:  Undefined array key "id" in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 44
+[25-Oct-2024 14:56:00 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IdentityNumber in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 35
+[25-Oct-2024 14:56:00 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$Deceased in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 38
+[25-Oct-2024 14:56:00 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IDNBlocked in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 39
+[25-Oct-2024 14:56:00 Africa/Johannesburg] PHP Warning:  Undefined array key "id" in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 44
+[25-Oct-2024 14:56:16 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IdentityNumber in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 35
+[25-Oct-2024 14:56:16 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$Deceased in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 38
+[25-Oct-2024 14:56:16 Africa/Johannesburg] PHP Warning:  Undefined property: stdClass::$IDNBlocked in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 39
+[25-Oct-2024 14:56:16 Africa/Johannesburg] PHP Warning:  Undefined array key "id" in /home/texcorpc/public_html/tests/enterwise/enterwise/admin/display_verification.php on line 44
