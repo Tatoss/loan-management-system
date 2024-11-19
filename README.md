@@ -134,4 +134,7 @@ For support or inquiries, please contact Ramoshaba Thato:
 
 --- 
 
-This structure provides a professional and detailed README that highlights the features and instructions for your system. Adjust the contact details and other specifics as needed!
+for testing this project visit https://www.texcorp.co.za/work/loansystem
+**username**: admin
+**password** : admin123
+just create account as user. for admin use details above
