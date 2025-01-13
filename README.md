@@ -134,7 +134,12 @@ For support or inquiries, please contact Ramoshaba Thato:
 
 --- 
 
-for testing this project visit https://www.texcorp.co.za/work/loansystem
+for testing this project visit: user login , just create account as user
+https://www.texcorp.co.za/work/enterw   
+**username**: create new
+**password** : create new
+
+https://www.texcorp.co.za/work/enterw/admin   
 **username**: admin
 **password** : admin123
-just create account as user. for admin use details above
+. for admin use details above
